@@ -31,7 +31,7 @@ def obter_palavras_chave(pasta):
             palavras_chave.append(nome_arquivo)
 
     # Adicione mais palavras-chave manualmente, se necessário
-    palavras_chave += ['pizza', 'pizzas', 'bebidas', 'opções de pizza', 'opções de pizzas']  # Adicione outras palavras-chave conforme necessário
+    palavras_chave += ['pizza', 'pizzas', 'bebidas', 'opções de pizza', 'opções de pizzas''alho', 'alcaparraz',' alcachofra' ]  # Adicione outras palavras-chave conforme necessário
 
     return palavras_chave
 
