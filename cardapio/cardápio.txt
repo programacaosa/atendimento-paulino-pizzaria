@@ -1,1 +1,426 @@
+Claro, aqui estão nossas deliciosas pizzas!
 
+
+### Pizzas
+
+- **Abobrinha**  
+  - Grande: R$108,00  
+  - Pequena: R$103,00  
+  - Broto: R$83,00  
+  *Abobrinha gratinada no azeite, coberta com queijo brie e parmesão.*
+
+- **Alcachofra**  
+  - Grande: R$108,00  
+  - Pequena: R$103,00  
+  - Broto: R$83,00  
+  *Coração de alcachofra, fatias de bacon, coberta com mussarela.*
+
+- **Alcaparras**  
+  - Grande: R$110,00  
+  - Pequena: R$105,00  
+  - Broto: R$85,00  
+  *Mussarela de búfala, aliche e alcaparras.*
+
+- **Alho**  
+  - Grande: R$102,00  
+  - Pequena: R$97,00  
+  - Broto: R$77,00  
+  *Alho roxo e parmesão ralado.*
+
+- **Alho Negro**  
+  - Grande: R$118,00  
+  - Pequena: R$113,00  
+  - Broto: R$93,00  
+  *Mussarela de búfala, tomate sweet grape e alho negro.*
+
+- **Alho Poró**  
+  - Grande: R$102,00  
+  - Pequena: R$97,00  
+  - Broto: R$77,00  
+  *Mussarela e alho poró refogado no azeite.*
+
+- **Aliche**  
+  - Grande: R$114,00  
+  - Pequena: R$109,00  
+  - Broto: R$89,00  
+  *Aliche importado e parmesão ralado.*
+
+- **Argentina**  
+  - Grande: R$100,00  
+  - Pequena: R$95,00  
+  - Broto: R$75,00  
+  *Mussarela com alho torrado salpicado.*
+
+- **Atum**  
+  - Grande: R$107,00  
+  - Pequena: R$102,00  
+  - Broto: R$82,00  
+  *Atum importado, rodelas de tomate e azeitonas pretas.*
+
+- **Bacalhau**  
+  - Grande: R$138,00  
+  - Pequena: R$133,00  
+  - Broto: R$113,00  
+  *Bacalhau do porto refogado no azeite, rodelas de pimentão, ovos cozidos, e azeitonas pretas.*
+
+- **Bacon**  
+  - Grande: R$104,00  
+  - Pequena: R$95,00  
+  - Broto: R$79,00  
+  *Mussarela, bacon, rodelas de tomate e azeitonas pretas.*
+
+- **Baiana**  
+  - Grande: R$102,00  
+  - Pequena: R$93,00  
+  - Broto: R$77,00  
+  *Calabresa moída, cebola e salsa.*
+
+- **Berinjela**  
+  - Grande: R$102,00  
+  - Pequena: R$93,00  
+  - Broto: R$77,00  
+  *Berinjela com bacon e parmesão ralado.*
+
+- **Brócolis**  
+  - Grande: R$104,00  
+  - Pequena: R$95,00  
+  - Broto: R$79,00  
+  *Brócolis ao alho e óleo, palmito com mussarela.*
+
+- **Búfala**  
+  - Grande: R$98,00  
+  - Pequena: R$93,00  
+  - Broto: R$76,00  
+  *Mussarela de búfala.*
+
+### Pizzas
+
+- **Caipira**  
+  - Grande: R$107,00  
+  - Pequena: R$102,00  
+  - Broto: R$82,00  
+  *Frango desfiado temperado com molho especial, pouca cebola picada e milho, coberta com queijo Catupiry.*
+
+- **Calabresa**  
+  - Grande: R$104,00  
+  - Pequena: R$99,00  
+  - Broto: R$79,00  
+  *Linguiça calabresa, cebola e azeitonas pretas.*
+
+- **Camarão**  
+  - Grande: R$214,00  
+  - Pequena: R$209,00  
+  - Broto: R$189,00  
+  *Camarão refogado no azeite, cebola picada, salsa, com Catupiry ou mussarela.*
+
+- **Campo Belo**  
+  - Grande: R$118,00  
+  - Pequena: R$113,00  
+  - Broto: R$93,00  
+  *Calabresa artesanal, cebola roxa e queijo burrata.*
+
+- **Caprese**  
+  - Grande: R$115,00  
+  - Pequena: R$110,00  
+  - Broto: R$90,00  
+  *Mussarela tradicional, rodelas de tomate, fatias grossas de mussarela de búfala no soro, pesto de azeitona e manjericão.*
+
+- **Castelões**  
+  - Grande: R$108,00  
+  - Pequena: R$103,00  
+  - Broto: R$83,00  
+  *Mussarela e calabresa fatiada.*
+
+- **Catupiry**  
+  - Grande: R$101,00  
+  - Pequena: R$96,00  
+  - Broto: R$77,00  
+  *Queijo Catupiry.*
+
+- **Champignon**  
+  - Grande: R$101,00  
+  - Pequena: R$96,00  
+  - Broto: R$77,00  
+  *Champignon cozido, rodelas de tomate, cebola e parmesão ralado.*
+
+- **Cheddar**  
+  - Grande: R$98,00  
+  - Pequena: R$93,00  
+  - Broto: R$73,00  
+  *Queijo cheddar.*
+
+- **Cinco Queijos**  
+  - Grande: R$112,00  
+  - Pequena: R$107,00  
+  - Broto: R$87,00  
+  *Mussarela, Catupiry, provolone, parmesão e gorgonzola.*
+
+- **Dois Queijos**  
+  - Grande: R$103,00  
+  - Pequena: R$98,00  
+  - Broto: R$78,00  
+  *Queijo mussarela e Catupiry.*
+
+- **Di Parma**  
+  - Grande: R$118,00  
+  - Pequena: R$113,00  
+  - Broto: R$93,00  
+  *Mussarela de búfala e fatias finas de presunto Parma levemente ao forno.*
+
+- **Escarola**  
+  - Grande: R$104,00  
+  - Pequena: R$99,00  
+  - Broto: R$79,00  
+  *Escarola ao alho e óleo, fatias de calabresa coberta com mussarela.*
+
+- **Ellipse**  
+  - Grande: R$108,00  
+  - Pequena: R$103,00  
+  - Broto: R$83,00  
+  *Carne seca desfiada temperada com cebola picada, brócolis salpicado com alho cru cobertos com mussarela.*
+
+- **Espinafre**  
+  - Grande: R$107,00  
+  - Pequena: R$102,00  
+  - Broto: R$83,00  
+  *Espinafre ao alho e óleo, palmito coberta com mussarela.*
+
+- **Fortaleza**  
+  - Grande: R$105,00  
+  - Pequena: R$100,00  
+  - Broto: R$80,00  
+  *Carne seca desfiada temperada com cebola, molho especial coberta com Catupiry.*
+
+- **Frango**  
+  - Grande: R$102,00  
+  - Pequena: R$98,00  
+  - Broto: R$78,00  
+  *Frango desfiado temperado com molho especial, pouca cebola picada, coberto com Catupiry.*
+
+- **Gorgonzola**  
+  - Grande: R$103,00  
+  - Pequena: R$98,00  
+  - Broto: R$78,00  
+  *Queijo gorgonzola e rodelas de tomate.*
+
+- **Javali**  
+  - Grande: R$115,00  
+  - Pequena: R$110,00  
+  - Broto: R$90,00  
+  *Mussarela de búfala, calabresa de javali e alho poró.*
+
+- **Leopoldina**  
+  - Grande: R$114,00  
+  - Pequena: R$109,00  
+  - Broto: R$89,00  
+  *Queijo Brie, presunto Parma Espanhol cru e mel.*
+
+- **Lombinho**  
+  - Grande: R$100,00  
+  - Pequena: R$95,00  
+  - Broto: R$75,00  
+  *Lombo canadense, cebola e azeitonas pretas.*
+
+- **M.A. Biaggi**  
+  - Grande: R$115,00  
+  - Pequena: R$105,00  
+  - Broto: R$89,00  
+  *Queijo Burrata, tomate Sweet grape e pesto de manjericão.*
+
+- **Marguerita**  
+  - Grande: R$98,00  
+  - Pequena: R$93,00  
+  - Broto: R$78,00  
+  *Mussarela, rodelas de tomate, manjericão e parmesão ralado.*
+
+- **Marguerita Especial**  
+  - Grande: R$103,00  
+  - Pequena: R$98,00  
+  - Broto: R$78,00  
+  *Mussarela, rodelas de tomate, manjericão, parmesão ralado e peito de peru enrolado.*
+
+- **Milho**  
+  - Grande: R$105,00  
+  - Pequena: R$98,00  
+  - Broto: R$78,00  
+  *Milho verde coberto com Catupiry.*
+
+- **Miura**  
+  - Grande: R$105,00  
+  - Pequena: R$100,00  
+  - Broto: R$78,00  
+  *Mussarela de búfala, tomate seco e rúcula.*
+
+- **Moda da Casa**  
+  - Grande: R$106,00  
+  - Pequena: R$101,00  
+  - Broto: R$81,00  
+  *Presunto e azeitonas verdes sem caroço, coberta com mussarela.*
+
+- **Moda do Chefe**  
+  - Grande: R$108,00  
+  - Pequena: R$103,00  
+  - Broto: R$83,00  
+  *Lombinho canadense e cebola, coberto com mussarela, alho torrado salpicado.*
+
+- **Mussarela**  
+  - Grande: R$97,00  
+  - Pequena: R$92,00  
+  - Broto: R$72,00  
+  *Queijo mussarela.*
+
+- **Napolitana**  
+  - Grande: R$98,00  
+  - Pequena: R$93,00  
+  - Broto: R$73,00  
+  *Mussarela, molho de tomate, rodelas de tomate e parmesão ralado.*
+
+- **Oriental**  
+  - Grande: R$114,00  
+  - Pequena: R$109,00  
+  - Broto: R$89,00  
+  *Mussarela, alho poró e shiitake refogado no azeite.*
+
+### Pizzas
+
+- **Palmito**  
+  - Grande: R$116,00  
+  - Pequena: R$111,00  
+  - Broto: R$91,00  
+  *Palmito fatiado e coberto com mussarela.*
+
+- **Paulino**  
+  - Grande: R$116,00  
+  - Pequena: R$111,00  
+  - Broto: R$91,00  
+  *Cream cheese Philadelphia com fatias de pepperoni.*
+
+- **Pepperoni**  
+  - Grande: R$113,00  
+  - Pequena: R$109,00  
+  - Broto: R$87,00  
+  *Mussarela e salame tipo pepperoni.*
+
+- **Peru**  
+  - Grande: R$109,00  
+  - Pequena: R$104,00  
+  - Broto: R$84,00  
+  *Peito de peru defumado com Catupiry.*
+
+- **Picanha**  
+  - Grande: R$111,00  
+  - Pequena: R$106,00  
+  - Broto: R$86,00  
+  *Mussarela de búfala, picanha defumada, azeitonas verdes sem caroço, salpicada com alho torrado.*
+
+- **Philadelphia**  
+  - Grande: R$110,00  
+  - Pequena: R$105,00  
+  - Broto: R$85,00  
+  *Lombo canadense, cream cheese Philadelphia e manjericão.*
+
+- **Pomodoro**  
+  - Grande: R$104,00  
+  - Pequena: R$99,00  
+  - Broto: R$79,00  
+  *Alho, rodelas de tomate e parmesão ralado.*
+
+- **Portuguesa**  
+  - Grande: R$102,00  
+  - Pequena: R$97,00  
+  - Broto: R$75,00  
+  *Presunto, cebola, ovos cozidos e azeitonas pretas.*
+
+- **Portuguesa Especial**  
+  - Grande: R$114,00  
+  - Pequena: R$106,00  
+  - Broto: R$87,00  
+  *Presunto, cebola, ovos cozidos, azeitonas pretas e cobertura de mussarela.*
+
+- **Provolone**  
+  - Grande: R$98,00  
+  - Pequena: R$93,00  
+  - Broto: R$73,00  
+  *Queijo tipo provolone.*
+
+- **Quatro Estações**  
+  - Grande: R$121,00  
+  - Pequena: R$111,00  
+  - Broto: R$97,00  
+  *Queijo Cottage, peito de peru, tomate Sweet grape e alecrim.*
+
+- **Quatro Queijos**  
+  - Grande: R$110,00  
+  - Pequena: R$105,00  
+  - Broto: R$85,00  
+  *Mussarela, Catupiry, provolone e parmesão ralado.*
+
+- **Ricota**  
+  - Grande: R$103,00  
+  - Pequena: R$98,00  
+  - Broto: R$78,00  
+  *Ricota com fatias de calabresa e azeitonas verdes picadas.*
+
+- **Romana**  
+  - Grande: R$108,00  
+  - Pequena: R$103,00  
+  - Broto: R$83,00  
+  *Mussarela, rodelas de tomate e aliche importado.*
+
+- **Romanesca**  
+  - Grande: R$111,00  
+  - Pequena: R$106,00  
+  - Broto: R$86,00  
+  *Presunto, champignon, bacon, coberta com Catupiry.*
+
+### Pizzas
+
+- **Speciale**  
+  - Grande: R$113,00  
+  - Pequena: R$103,00  
+  - Broto: R$88,00  
+  *Mussarela, mussarela de búfala, tomate seco picado, parma e rúcula.*
+
+- **Shiitake**  
+  - Grande: R$114,00  
+  - Pequena: R$109,00  
+  - Broto: R$89,00  
+  *Shiitake temperado com shoyu e azeite cobertos com mussarela.*
+
+- **Shimeji**  
+  - Grande: R$114,00  
+  - Pequena: R$109,00  
+  - Broto: R$89,00  
+  *Mussarela, alho poró, shimeji refogado no azeite.*
+
+- **Siciliana**  
+  - Grande: R$104,00  
+  - Pequena: R$99,00  
+  - Broto: R$79,00  
+  *Champignon e bacon, coberta com mussarela.*
+
+- **Toscana**  
+  - Grande: R$104,00  
+  - Pequena: R$99,00  
+  - Broto: R$79,00  
+  *Mussarela, calabresa moída, cebola e salsa.*
+
+- **Turin**  
+  - Grande: R$114,00  
+  - Pequena: R$108,00  
+  - Broto: R$88,00  
+  *Atum, champignon, coberta com mussarela.*
+
+- **Vegetariana**  
+  - Grande: R$114,00  
+  - Pequena: R$108,00  
+  - Broto: R$88,00  
+  *Brócolis, palmito, champignon, alho poró, salpicados com parmesão.*
+
+- **Veneza**  
+  - Grande: R$110,00  
+  - Pequena: R$105,00  
+  - Broto: R$85,00  
+  *Cheddar com fatias de calabresa e cebola.*
+
+Fique avontade para fazer seu pedido! 
