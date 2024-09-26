@@ -41,13 +41,14 @@ def verificar_saudacao(pergunta):
         else:
             return "Boa noite! Como posso ajudar você hoje?"
 
-# Função para buscar arquivos .txt na pasta cardapio e retornar suas palavras-chave
-def obter_palavras_chave(pasta):
+# Função para buscar arquivos .txt na pasta e retornar suas palavras-chave
+def obter_palavras_chave(pastas):
     palavras_chave = []
-    for arquivo in os.listdir(pasta):
-        if arquivo.endswith('.txt'):
-            nome_arquivo = arquivo[:-4]  # Remove a extensão .txt do nome do arquivo
-            palavras_chave.append(nome_arquivo)
+    for pasta in pastas:
+        for arquivo in os.listdir(pasta):
+            if arquivo.endswith('.txt'):
+                nome_arquivo = arquivo[:-4]  # Remove a extensão .txt do nome do arquivo
+                palavras_chave.append(nome_arquivo)
 
     # Adicione mais palavras-chave manualmente, se necessário
     palavras_chave += ['pizza', 'pizzas', 'bebidas', 'opções de pizza', 'opções de pizzas', 'alho', 'alcaparras', 'alcachofra']  # Adicione outras palavras-chave conforme necessário
@@ -58,8 +59,9 @@ def obter_palavras_chave(pasta):
 st.title("Perguntas e Respostas com Arquivos de Texto")
 st.markdown("Digite sua pergunta relacionada aos nossos arquivos de texto abaixo:")
 
-# Obtém as palavras-chave da pasta 'cardapio'
-palavras_chave = obter_palavras_chave('cardapio')  # Passa o caminho da pasta
+# Obtém as palavras-chave das pastas 'cardapio' e 'info'
+pastas = ['cardapio', 'info']  # Lista de pastas
+palavras_chave = obter_palavras_chave(pastas)  # Passa o caminho das pastas
 
 # Campo para o usuário digitar a pergunta
 pergunta = st.text_input("Digite sua pergunta:")
