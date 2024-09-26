@@ -32,12 +32,14 @@ def verificar_saudacao(pergunta):
         return "Boa tarde! Como posso ajudar você hoje?"
     elif "boa noite" in pergunta.lower():
         return "Boa noite! Como posso ajudar você hoje?"
-    elif hora_atual < 12:
-        return "Bom dia! Como posso ajudar você hoje?"
-    elif 12 <= hora_atual < 18:
-        return "Boa tarde! Como posso ajudar você hoje?"
     else:
-        return "Boa noite! Como posso ajudar você hoje?"
+        # Verifica a hora atual para dar uma resposta padrão
+        if hora_atual < 12:
+            return "Bom dia! Como posso ajudar você hoje?"
+        elif 12 <= hora_atual < 18:
+            return "Boa tarde! Como posso ajudar você hoje?"
+        else:
+            return "Boa noite! Como posso ajudar você hoje?"
 
 # Função para buscar arquivos .txt na pasta cardapio e retornar suas palavras-chave
 def obter_palavras_chave(pasta):
@@ -66,7 +68,7 @@ if st.button("Enviar"):
     if pergunta:
         # Primeiro, verifica se a pergunta contém uma saudação
         saudacao_resposta = verificar_saudacao(pergunta)
-        if saudacao_resposta:
+        if "Bom" in saudacao_resposta:  # Se for uma saudação, responda com ela
             resposta = saudacao_resposta
         else:
             # Exibe a mensagem "Digitando..." enquanto a resposta está sendo buscada
