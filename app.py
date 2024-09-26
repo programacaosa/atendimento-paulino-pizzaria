@@ -56,7 +56,7 @@ def obter_palavras_chave(pastas):
     return palavras_chave
 
 # Interface do Streamlit
-st.title("Perguntas e Respostas com Arquivos de Texto")
+st.title("Atendimento ao cliente com IA")
 st.markdown("Digite seu nome e sua pergunta relacionada aos nossos arquivos de texto abaixo:")
 
 # Obtém as palavras-chave das pastas 'cardapio' e 'info'
